@@ -15,6 +15,8 @@ git diff HEAD 查看工作树与最新提交的区别
 
 git log：查看提交记录（即历史的 commit 记录）
 
+git log -p (xxx) 查看xxx(不必须)提交日志及提交前后的差别
+
 git pull：从远程同步代码库到本地。
 
 git push：推送代码到远程代码库。
