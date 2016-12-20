@@ -29,7 +29,7 @@ git checkout <branch-name>：切换到指定分支。
 
 git checkout -b <branch-name>：创建,切换到指定分支。
 
-
+git checkout -切换至上一分支
 
 git status：当前修改的状态，是否修改了还没提交，或者那些文件未使用。
 

@@ -11,7 +11,7 @@ git commit -m <message>：提交更改，在修改了文件以后，使用这个
 git diff 查看当前工作树与暂存区的区别 
 	<+>表示新添加的行;<->表示被删除的行
 
-git diff 查看工作树与最新提交的区别
+git diff HEAD 查看工作树与最新提交的区别
 
 git log：查看提交记录（即历史的 commit 记录）
 
@@ -29,7 +29,7 @@ git checkout <branch-name>：切换到指定分支。
 
 git checkout -b <branch-name>：创建,切换到指定分支。
 
-
+git checkout -切换至上一分支
 
 git status：当前修改的状态，是否修改了还没提交，或者那些文件未使用。
 
