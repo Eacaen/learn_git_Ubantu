@@ -2,7 +2,9 @@
 
 git clone <address>：复制代码库到本地；
 
-git add <file> ...：添加文件到代码库中；
+git add <file> ...：添加文件到代码库中(在库中删除文件也要添加)；
+
+git add --all 添加所有
 
 git rm <file> ...：删除代码库的文件；
 
