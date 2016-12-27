@@ -1,11 +1,16 @@
-/*搜集自网络 && <<GitHub入门与实践>>
+﻿/*搜集自网络 && <<GitHub入门与实践>>
 /*测试可行
-/*
-/*
-/*
 
+/*******************************************************************
+********************************************************************/
+查看差别：<可选>
+	 https://github.com/Eacaen/learn_git_Ubantu/compare/<branch_name1...branch_name2>
 
+	 https://github.com/Eacaen/learn_git_Ubantu/compare/master@{7.day.ago}...master  day week month year  //时间要确定，不然看不出区别
 
+	https://github.com/Eacaen/learn_git_Ubantu/compare/master@{2016-01-01}...master
+
+	
 
 git 名词：
 /*******************************************************************
